@@ -2,7 +2,7 @@ node{
 
 
 	stage('SCM'){
-	git 'https://gitlab.com/atomystic/backenduseangularproject.git'
+	git 'https://github.com/at0myst1c/testDevops'
 	}
 
 
